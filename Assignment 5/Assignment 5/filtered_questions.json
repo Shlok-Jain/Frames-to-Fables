@@ -1,0 +1,512 @@
+[
+    [
+        "what is the blue shape?",
+        "rectangle",
+        0
+    ],
+    [
+        "what color is the shape?",
+        "blue",
+        0
+    ],
+    [
+        "does the image contain a rectangle?",
+        "yes",
+        0
+    ],
+    [
+        "is there a triangle in the image?",
+        "no",
+        0
+    ],
+    [
+        "is there a black shape?",
+        "no",
+        0
+    ],
+    [
+        "does the image not contain a gray shape?",
+        "yes",
+        0
+    ],
+    [
+        "is there a red shape in the image?",
+        "no",
+        0
+    ],
+    [
+        "does the image not contain a red shape?",
+        "yes",
+        0
+    ],
+    [
+        "is there not a blue shape?",
+        "no",
+        0
+    ],
+    [
+        "is there not a blue shape in the image?",
+        "no",
+        0
+    ],
+    [
+        "is there not a yellow shape?",
+        "yes",
+        0
+    ],
+    [
+        "is a teal shape present?",
+        "no",
+        0
+    ],
+    [
+        "what color is the triangle?",
+        "blue",
+        1
+    ],
+    [
+        "what color is the shape?",
+        "blue",
+        1
+    ],
+    [
+        "is there not a rectangle in the image?",
+        "yes",
+        1
+    ],
+    [
+        "is there a red shape?",
+        "no",
+        1
+    ],
+    [
+        "is there a green shape in the image?",
+        "no",
+        1
+    ],
+    [
+        "is there not a teal shape?",
+        "yes",
+        1
+    ],
+    [
+        "what shape is in the image?",
+        "triangle",
+        2
+    ],
+    [
+        "what shape does the image contain?",
+        "triangle",
+        2
+    ],
+    [
+        "what color is the triangle?",
+        "red",
+        2
+    ],
+    [
+        "what is the color of the triangle?",
+        "red",
+        2
+    ],
+    [
+        "is there a circle?",
+        "no",
+        2
+    ],
+    [
+        "does the image contain a green shape?",
+        "no",
+        2
+    ],
+    [
+        "is there a blue shape in the image?",
+        "no",
+        2
+    ],
+    [
+        "is there a teal shape?",
+        "no",
+        2
+    ],
+    [
+        "is there not a teal shape in the image?",
+        "yes",
+        2
+    ],
+    [
+        "what shape is present?",
+        "rectangle",
+        3
+    ],
+    [
+        "what shape does the image contain?",
+        "rectangle",
+        3
+    ],
+    [
+        "what color is the rectangle?",
+        "brown",
+        3
+    ],
+    [
+        "what is the color of the rectangle?",
+        "brown",
+        3
+    ],
+    [
+        "what is the color of the shape?",
+        "brown",
+        3
+    ],
+    [
+        "does the image not contain a circle?",
+        "yes",
+        3
+    ],
+    [
+        "does the image contain a triangle?",
+        "no",
+        3
+    ],
+    [
+        "does the image contain a gray shape?",
+        "no",
+        3
+    ],
+    [
+        "is there a blue shape?",
+        "no",
+        3
+    ],
+    [
+        "is no yellow shape present?",
+        "yes",
+        3
+    ],
+    [
+        "is there not a brown shape?",
+        "no",
+        3
+    ],
+    [
+        "what is the red shape?",
+        "circle",
+        4
+    ],
+    [
+        "what is the color of the circle?",
+        "red",
+        4
+    ],
+    [
+        "what is the color of the shape?",
+        "red",
+        4
+    ],
+    [
+        "is there not a rectangle in the image?",
+        "yes",
+        4
+    ],
+    [
+        "is a circle present?",
+        "yes",
+        4
+    ],
+    [
+        "does the image not contain a circle?",
+        "no",
+        4
+    ],
+    [
+        "is there a black shape?",
+        "no",
+        4
+    ],
+    [
+        "is there not a gray shape?",
+        "yes",
+        4
+    ],
+    [
+        "does the image contain a red shape?",
+        "yes",
+        4
+    ],
+    [
+        "does the image contain a yellow shape?",
+        "no",
+        4
+    ],
+    [
+        "is there not a yellow shape in the image?",
+        "yes",
+        4
+    ],
+    [
+        "is there a teal shape?",
+        "no",
+        4
+    ],
+    [
+        "is there a brown shape in the image?",
+        "no",
+        4
+    ],
+    [
+        "is there not a brown shape in the image?",
+        "yes",
+        4
+    ],
+    [
+        "what is the yellow shape?",
+        "triangle",
+        5
+    ],
+    [
+        "what color is the triangle?",
+        "yellow",
+        5
+    ],
+    [
+        "what is the color of the triangle?",
+        "yellow",
+        5
+    ],
+    [
+        "is a rectangle present?",
+        "no",
+        5
+    ],
+    [
+        "is there not a circle?",
+        "yes",
+        5
+    ],
+    [
+        "is there a triangle?",
+        "yes",
+        5
+    ],
+    [
+        "is a green shape present?",
+        "no",
+        5
+    ],
+    [
+        "does the image contain a yellow shape?",
+        "yes",
+        5
+    ],
+    [
+        "is there a brown shape in the image?",
+        "no",
+        5
+    ],
+    [
+        "what is the red shape?",
+        "circle",
+        6
+    ],
+    [
+        "what is the color of the circle?",
+        "red",
+        6
+    ],
+    [
+        "what is the color of the shape?",
+        "red",
+        6
+    ],
+    [
+        "is no rectangle present?",
+        "yes",
+        6
+    ],
+    [
+        "does the image contain a circle?",
+        "yes",
+        6
+    ],
+    [
+        "is there not a circle?",
+        "no",
+        6
+    ],
+    [
+        "is there not a triangle in the image?",
+        "yes",
+        6
+    ],
+    [
+        "does the image not contain a gray shape?",
+        "yes",
+        6
+    ],
+    [
+        "is there a green shape?",
+        "no",
+        6
+    ],
+    [
+        "is there a blue shape?",
+        "no",
+        6
+    ],
+    [
+        "is a blue shape present?",
+        "no",
+        6
+    ],
+    [
+        "is a yellow shape present?",
+        "no",
+        6
+    ],
+    [
+        "is no teal shape present?",
+        "yes",
+        6
+    ],
+    [
+        "what is the color of the circle?",
+        "black",
+        7
+    ],
+    [
+        "is a rectangle present?",
+        "no",
+        7
+    ],
+    [
+        "is there not a triangle?",
+        "yes",
+        7
+    ],
+    [
+        "is there not a gray shape?",
+        "yes",
+        7
+    ],
+    [
+        "is there not a gray shape in the image?",
+        "yes",
+        7
+    ],
+    [
+        "is there a red shape?",
+        "no",
+        7
+    ],
+    [
+        "is there not a brown shape?",
+        "yes",
+        7
+    ],
+    [
+        "what is the color of the rectangle?",
+        "brown",
+        8
+    ],
+    [
+        "does the image not contain a circle?",
+        "yes",
+        8
+    ],
+    [
+        "is no gray shape present?",
+        "yes",
+        8
+    ],
+    [
+        "does the image contain a red shape?",
+        "no",
+        8
+    ],
+    [
+        "is no red shape present?",
+        "yes",
+        8
+    ],
+    [
+        "does the image not contain a green shape?",
+        "yes",
+        8
+    ],
+    [
+        "is there a blue shape in the image?",
+        "no",
+        8
+    ],
+    [
+        "does the image not contain a blue shape?",
+        "yes",
+        8
+    ],
+    [
+        "is there a teal shape in the image?",
+        "no",
+        8
+    ],
+    [
+        "is there a brown shape in the image?",
+        "yes",
+        8
+    ],
+    [
+        "what shape is in the image?",
+        "rectangle",
+        9
+    ],
+    [
+        "what is the yellow shape?",
+        "rectangle",
+        9
+    ],
+    [
+        "what is the color of the rectangle?",
+        "yellow",
+        9
+    ],
+    [
+        "what color is the shape?",
+        "yellow",
+        9
+    ],
+    [
+        "is there a rectangle?",
+        "yes",
+        9
+    ],
+    [
+        "is a gray shape present?",
+        "no",
+        9
+    ],
+    [
+        "is a red shape present?",
+        "no",
+        9
+    ],
+    [
+        "is no red shape present?",
+        "yes",
+        9
+    ],
+    [
+        "does the image not contain a blue shape?",
+        "yes",
+        9
+    ],
+    [
+        "is there a brown shape?",
+        "no",
+        9
+    ],
+    [
+        "does the image not contain a brown shape?",
+        "yes",
+        9
+    ]
+]
